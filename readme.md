@@ -1,4 +1,4 @@
-![cover](/assets/cover.jpg)
+![cover](./assets/cover.jpg)
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
