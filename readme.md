@@ -1,4 +1,4 @@
-![cover](https://github.com/niananto/niananto/assets/cover.jpg)
+![cover](https://github.com/niananto/niananto/blob/master/assets/cover.jpg)
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
