@@ -23,8 +23,8 @@
 
 ## Gihub Overview  
 
-<img style="height:180px;" alt="ananto's github stat" src="https://github-readme-stats.vercel.app/api?username=niananto&show_icons=true" />  
-<img style="height:180px;" alt="ananto's github language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niananto&layout=compact" />  
+<img style="height:170px;" alt="ananto's github stat" src="https://github-readme-stats.vercel.app/api?username=niananto&show_icons=true" />  
+<img style="height:170px;" alt="ananto's github language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niananto&layout=compact" />  
 
 [website]: https://niananto.github.io/
 [linkedin]: https://www.linkedin.com/in/nazmulislamananto/
