@@ -2,7 +2,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="Ananto" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="BlogFolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nazmulislamananto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nazmul Islam Ananto | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ananto___ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -19,11 +19,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Php](http://img.shields.io/badge/-php-000000?style=flat&logo=php)
 
-## Gihub Overview
-![ananto's github stat](https://github-readme-stats.vercel.app/api?username=niananto&show_icons=true)
-![ananto's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=niananto&layout=compact)
+![dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+## Gihub Overview  
+
+<img style="height:190px;" alt="ananto's github stat" src="https://github-readme-stats.vercel.app/api?username=niananto&show_icons=true" />  
+<img style="height:190px;" alt="ananto's github language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niananto&layout=compact" />  
 
 [website]: https://niananto.github.io/
 [linkedin]: https://www.linkedin.com/in/nazmulislamananto/
