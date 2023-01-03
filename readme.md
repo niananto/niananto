@@ -25,6 +25,7 @@
 
 <img style="height:170px;" alt="ananto's github stat" src="https://github-readme-stats.vercel.app/api?username=niananto&show_icons=true" />  
 <img style="height:170px;" alt="ananto's github language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niananto&layout=compact" />  
+[![GitHub Streak](https://streak-stats.demolab.com?user=niananto&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [website]: https://niananto.github.io/
 [linkedin]: https://www.linkedin.com/in/nazmulislamananto/
