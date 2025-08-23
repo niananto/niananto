@@ -18,12 +18,12 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 Software Engineer @ Zelf Technologies (NY, Remote)
+- 🧑‍💻 Software Engineer @ Zelf AI (NY, Remote)
 - 🎓 CSE Graduate, BUET - Dean’s List
 - 🏆 Zelf Hackathon 1.0 Winner
-- 🌏 Building real-world automation, scraping, and data-driven microservices at scale
+- 🌏 Building real-world automation, scraping, and data-driven services at scale
 - ⚡ Automating infrastructure, CI/CD pipelines, and real-world data solutions at scale
-- 📝 Researcher exploring AI’s intersection with cloud automation and real-life impact
+- 📝 Researcher exploring AI’s intersection real-life problems, software development and security
 
 ---
 
