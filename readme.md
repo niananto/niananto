@@ -31,6 +31,7 @@
 
 | Project | Description | Links |
 |---|---|---|
+| **Online News Scraper** | Real-time scraper/aggregator for 30+ globally recognized news portals with dynamic keyword search | [Code](https://github.com/niananto/online-news-scrapers) |
 | **Stock Trader** | Machine Learning-based stock trading agent, trained on real DSE data | [Code](https://github.com/niananto/Stock-Trader) • [Presentation](https://github.com/niananto/Stock-Trader/tree/main/Presentation) |
 | **Maps ’n Bags** | Itinerary planner with travel suggestions, diary, and budgeting | [Code](https://github.com/orgs/maps-n-bag/repositories) |
 | **Red Light Green Light** | Adaptive traffic light and train detection using Arduino | [Demo Video](https://youtu.be/9mWLkRmKQEA) • [Code](https://github.com/niananto/red-light-green-light) |
