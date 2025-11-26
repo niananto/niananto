@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Nazmul Islam Ananto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Software Engineer • DevOps Enthusiast • Automation Architect</b>
+  <b>Teacher • Researcher • Software Engineer • DevOps & Automation Architect</b>
 </p>
 
 <p align="center">
@@ -18,12 +18,13 @@
 
 ### 🚀 About Me
 
+- 📚 Adjunct Lecturer @ CSE, BUET
 - 🧑‍💻 Software Engineer @ Zelf AI (NY, Remote)
 - 🎓 CSE Graduate, BUET - Dean’s List
 - 🏆 Zelf Hackathon 1.0 Winner
-- 🌏 Building real-world automation, scraping, and data-driven services at scale
+- 🌏 Building real-world automation, indexing, and social-analysis services at scale
 - ⚡ Automating infrastructure, CI/CD pipelines, and real-world data solutions at scale
-- 📝 Researcher exploring AI’s intersection real-life problems, software development and security
+- 📝 Researcher exploring LLMs, Software Engineering and Security
 
 ---
 
