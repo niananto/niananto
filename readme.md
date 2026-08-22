@@ -18,8 +18,9 @@
 
 ### 🚀 About Me
 
-- 📚 Adjunct Lecturer @ CSE, BUET
-- 🧑‍💻 Software Engineer @ Zelf AI (NY, Remote)
+- 📚 PhD @ PennState CSE
+- 📘 Former Adj. Lecturer @ CSE, BUET
+- 🧑‍💻 Former Software Engineer @ Zelf AI
 - 🎓 CSE Graduate, BUET - Dean’s List
 - 🏆 Zelf Hackathon 1.0 Winner
 - 🌏 Building real-world automation, indexing, and social-analysis services at scale
