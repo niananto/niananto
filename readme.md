@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Nazmul Islam Ananto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Teacher • Researcher • Software Engineer • DevOps & Automation Architect</b>
+  <b>Teacher • Researcher • Software, DevOps & Automation</b>
 </p>
 
 <p align="center">
@@ -19,12 +19,10 @@
 ### 🚀 About Me
 
 - 📚 PhD @ PennState CSE
+- 🎓 Former Lecturer & Alumnus @ CSE, BUET
 - 🧑‍💻 Former Software Engineer @ Zelf AI
-- 🎓 Former Adj. Lecturer & Alumnus @ CSE, BUET
-- 🏆 Zelf Hackathon 1.0 Winner
+- 📝 Exploring Security, LLMs and Agentic Systems
 - 🌏 Building real-world automation, indexing, and social-analysis services at scale
-- ⚡ Automating infrastructure, CI/CD pipelines, and real-world data solutions at scale
-- 📝 Researcher exploring LLMs, Software Engineering and Security
 
 ---
 
@@ -74,12 +72,15 @@
 - 🥇 **1st/400** Zelf Hackathon 1.0 (2024)
 - 🎮 **Top 5/68** GameJam 2023 (IEEE CS, BUET) — "Asteroids"
 - 🏅 Dean’s List, BUET (CGPA 3.91)
+- 📖 Published in ACL 26: *CompassLLM: A Multi-Agent Approach toward Geo-Spatial Reasoning for Popular Path Query
+*
 - 📖 Published in Frontiers: *A Riverbank Erosion Early Warning System: A Case Study of the Braided Brahmaputra‑Jamuna River*
 
 ---
 
 ### 🌐 Community & Leadership
 
+- 🙌🏼 **General Secretary** - BSA @ PSU
 - 💻 **Director of Marketing & Communication** — BUET Cyber Security Club  
   _Organized national CTFs, promoted cybersecurity in Bangladesh_
 - ✍️ **President of Writing & Publication** — Notre Dame English Club  
@@ -89,13 +90,13 @@
 
 ### 🎨 Fun Facts
 
-- 🛠️ Always looking for new ways to make infrastructure reliable, fast, and fun
+- 🛠️ Always looking for new ways to make (friends!) infrastructure reliable, fast, and fun
 - 🔍 Every “impossible” challenge is just one clever script away
 
 ---
 
 <p align="center">
-  <b>Let’s connect, collaborate, and build something epic in the cloud!</b>
+  <b>Let’s connect, collaborate, and build something epic!</b>
   <br>
   <a href="https://niananto.com">niananto.com</a> • 
   <a href="https://www.linkedin.com/in/nazmulislamananto">LinkedIn</a> • 
